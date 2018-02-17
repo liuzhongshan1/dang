@@ -1,0 +1,1021 @@
+[ 2018-02-12T00:00:32+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000421s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001356s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002357s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.094753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.051539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.053725s ]
+
+[ 2018-02-12T00:01:50+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000171s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001345s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002833s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081596s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006452s ]
+
+[ 2018-02-12T00:02:16+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001969s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004945s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004605s ]
+
+[ 2018-02-12T00:03:49+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004292s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011137s ]
+
+[ 2018-02-12T00:07:30+08:00 ] ::1 /5dangpai.com/index.php/Admin/Edit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004431s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000922s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001741s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067806s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008282s ]
+
+[ 2018-02-12T00:23:33+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006351s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001012s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001852s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008889s ]
+
+[ 2018-02-12T00:24:06+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001480s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002656s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005152s ]
+
+[ 2018-02-12T00:26:02+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006554s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002796s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003862s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006185s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007074s ]
+
+[ 2018-02-12T00:26:25+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001932s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014243s ]
+
+[ 2018-02-12T00:32:14+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002701s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003704s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.159982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.162753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011206s ]
+
+[ 2018-02-12T00:32:33+08:00 ] ::1 /5dangpai.com/index.php/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005499s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001982s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006932s ]
+
+[ 2018-02-12T00:33:19+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007168s ]
+
+[ 2018-02-12T00:33:36+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000603s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004870s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002428s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003117s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087494s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016591s ]
+
+[ 2018-02-12T00:34:55+08:00 ] ::1 /5dangpai.com/index.php/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000184s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005713s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000995s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001812s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004778s ]
+
+[ 2018-02-12T00:34:58+08:00 ] ::1 /5dangpai.com/index.php/Admin/Edit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000177s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004569s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000945s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002032s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112721s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014383s ]
+
+[ 2018-02-12T00:38:58+08:00 ] ::1 /5dangpai.com/index.php/Admin/Edit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004458s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068055s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006363s ]
+
+[ 2018-02-12T00:39:05+08:00 ] ::1 /5dangpai.com/index.php/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006532s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000873s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001614s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012665s ]
+
+[ 2018-02-12T00:39:07+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004617s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001483s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.083624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002694s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007125s ]
+
+[ 2018-02-12T01:04:02+08:00 ] ::1 /5dangpai.com/index.php/Admin/Admin/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000189s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001844s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020621s ]
+
+[ 2018-02-12T22:22:59+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001317s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061700s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005911s ]
+
+[ 2018-02-12T22:23:09+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/addadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002673s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004140s ]
+ERR: 模板不存在:./Application/Admin/View/Personnel/addadmin.html
+
+[ 2018-02-12T22:23:15+08:00 ] ::1 /5dangpai.com/index.php/Admin/Edit/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001535s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005419s ]
+
+[ 2018-02-12T22:24:01+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/addadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005833s ]
+ERR: 模板不存在:./Application/Admin/View/Personnel/addadmin.html
+
+[ 2018-02-12T22:26:01+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/addadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004245s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007053s ]
+ERR: 模板不存在:./Application/Admin/View/Personnel/addadmin.html
+
+[ 2018-02-12T22:26:22+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/addadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004824s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000970s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001815s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067773s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006147s ]
+
+[ 2018-02-12T22:26:56+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/elements.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003763s ]
+ERR: 非法操作:elements
+
+[ 2018-02-12T22:28:40+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/elements.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004689s ]
+ERR: 非法操作:elements
+
+[ 2018-02-12T22:31:33+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004117s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004584s ]
+
+[ 2018-02-12T22:31:52+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/buttons.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003644s ]
+ERR: 非法操作:buttons
+
+[ 2018-02-12T22:31:58+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/editadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001775s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.076043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076900s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005285s ]
+
+[ 2018-02-12T22:34:26+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/editadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000997s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001790s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002946s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010659s ]
+
+[ 2018-02-12T22:34:58+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/buttons.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002513s ]
+ERR: 非法操作:buttons
+
+[ 2018-02-12T22:45:22+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000194s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006923s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001814s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004599s ]
+
+[ 2018-02-12T22:46:19+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003457s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001475s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002332s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017586s ]
+
+[ 2018-02-12T22:46:23+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003471s ]
+ERR: 非法操作:logdmin
+
+[ 2018-02-12T22:46:41+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004672s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002252s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2018-02-12T22:46:45+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004842s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000963s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001772s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004133s ]
+
+[ 2018-02-12T22:48:18+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000147s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001851s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002597s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.126467s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002542s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003487s ]
+
+[ 2018-02-12T22:49:35+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001863s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002560s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136496s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005170s ]
+
+[ 2018-02-12T22:50:56+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002329s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.116388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004196s ]
+
+[ 2018-02-12T22:51:11+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001672s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.154487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.027686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.028337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003321s ]
+
+[ 2018-02-12T22:52:34+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004965s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002885s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120806s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003402s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003978s ]
+
+[ 2018-02-12T22:54:07+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000172s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004914s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002891s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121111s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007472s ]
+
+[ 2018-02-12T22:57:09+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/elements.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000165s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004372s ]
+ERR: 非法操作:elements
+
+[ 2018-02-12T22:59:32+08:00 ] ::1 /5dangpai.com/index.php/Admin/Personnel/logadmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003919s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001711s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003500s ]
+
+[ 2018-02-12T22:59:42+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005666s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002957s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004868s ]
+
+[ 2018-02-12T23:01:16+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001825s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011684s ]
+
+[ 2018-02-12T23:02:33+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005439s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000993s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001836s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004168s ]
+
+[ 2018-02-12T23:02:53+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004588s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001005s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001811s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001983s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016097s ]
+
+[ 2018-02-12T23:04:09+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001999s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064209s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004633s ]
+
+[ 2018-02-12T23:10:22+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005161s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001913s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002915s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009763s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010660s ]
+
+[ 2018-02-12T23:18:10+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000870s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001540s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005018s ]
+
+[ 2018-02-12T23:18:17+08:00 ] ::1 /5dangpai.com/index.php/Admin/Authority/editadminauthority
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001370s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005980s ]
+
+[ 2018-02-12T23:18:42+08:00 ] ::1 /5dangpai.com/index.php/Admin/Authority/editadmingroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001002s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001817s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004002s ]
+
+[ 2018-02-12T23:38:21+08:00 ] ::1 /5dangpai.com/index.php/Admin/Authority/editadmingroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000164s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005123s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000993s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001804s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011989s ]
+
+[ 2018-02-12T23:38:28+08:00 ] ::1 /5dangpai.com/index.php/admin/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003656s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001817s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005981s ]
+

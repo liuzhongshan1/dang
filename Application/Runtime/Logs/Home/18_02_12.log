@@ -1,0 +1,312 @@
+[ 2018-02-12T01:01:12+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004453s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.033066s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.001354s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=1 limit 0,5 [ RunTime:0.003523s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000411s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000397s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.025862s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003609s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000261s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.048441s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017942s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.021928s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020020s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.023997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005174s ]
+
+[ 2018-02-12T01:01:26+08:00 ] ::1 /5dangpai.com/index.php/Home/Img/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003854s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.019127s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` WHERE ( dang_post.type=2 ) LIMIT 1   [ RunTime:0.001432s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=2 order by time desc limit 0,5 [ RunTime:0.004638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000846s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000385s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.025288s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017359s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.043663s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012484s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014043s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004458s ]
+
+[ 2018-02-12T01:01:52+08:00 ] ::1 /5dangpai.com/index.php/Home/Img/index/page/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004492s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.033699s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` WHERE ( dang_post.type=2 ) LIMIT 1   [ RunTime:0.001572s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=2 order by time desc limit 5,5 [ RunTime:0.005215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000541s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001386s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000548s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.042220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000355s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.074797s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022449s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.028612s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025159s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.031249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006881s ]
+
+[ 2018-02-12T01:02:05+08:00 ] ::1 /5dangpai.com/index.php/Home/Text/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000171s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002894s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008212s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.030466s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.001227s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=1 limit 0,5 [ RunTime:0.002676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001333s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002393s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.051384s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000409s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.099274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036156s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.012522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.045313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046216s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.012522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.054203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012157s ]
+
+[ 2018-02-12T01:02:16+08:00 ] ::1 /5dangpai.com/index.php/Home/New/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000438s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005560s ]
+ERR: 无法加载控制器:New
+
+[ 2018-02-12T01:02:22+08:00 ] ::1 /5dangpai.com/index.php/Home/Img/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.032244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.033591s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.083854s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` WHERE ( dang_post.type=2 ) LIMIT 1   [ RunTime:0.001752s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=2 order by time desc limit 0,5 [ RunTime:0.003690s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000404s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001107s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.043654s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000302s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.091703s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037934s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.042274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040024s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.015129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.044371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.034267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036267s ]
+
+[ 2018-02-12T22:21:48+08:00 ] ::1 /5dangpai.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004537s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-02-12T22:22:03+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.029890s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000914s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=1 limit 0,5 [ RunTime:0.002028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000462s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001244s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000486s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.030075s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000351s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.054675s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017292s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.021684s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019812s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005403s ]
+
+[ 2018-02-12T22:22:11+08:00 ] ::1 /5dangpai.com/index.php/Home/Img/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004845s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.021497s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` WHERE ( dang_post.type=2 ) LIMIT 1   [ RunTime:0.001236s ]
+SQL:  select *  from dang_post,dang_user where dang_post.uid = dang_user.id and dang_post.type=2 order by time desc limit 0,5 [ RunTime:0.002994s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000492s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001973s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000828s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.041936s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028548s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003382s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000353s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.070701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018756s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024757s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021311s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.027493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005027s ]
+

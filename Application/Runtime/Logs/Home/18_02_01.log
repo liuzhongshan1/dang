@@ -1,0 +1,30 @@
+[ 2018-02-01T22:17:24+08:00 ] ::1 /5dangpai.com/index.php/Home/Send/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030425s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000447s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001186s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000390s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.162471s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018834s ]
+NOTIC: [8] Undefined index: uid D:\sougou\wamp\www\5dangpai.com\Application\Runtime\Cache\Home\5a765bb74e0251e61ae3a111b25aedb4.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.052887s ]
+INFO: [ app_end ] --END-- [ RunTime:0.057597s ]
+

@@ -1,0 +1,653 @@
+[ 2018-01-26T22:50:28+08:00 ] ::1 /5dangpai.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004366s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-01-26T22:51:08+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003484s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.021642s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.001206s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001758s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000479s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000355s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.025431s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004228s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000348s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.051147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017109s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.021254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020579s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004092s ]
+
+[ 2018-01-26T23:25:28+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004677s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.019593s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000996s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000408s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001078s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000358s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.032749s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021316s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000306s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.063853s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019865s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.011875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.029119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023622s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.011875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.032799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005084s ]
+
+[ 2018-01-26T23:25:42+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004320s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.022038s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000952s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000437s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000417s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.035230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020973s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003475s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000354s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.061379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016799s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.021130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019378s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006503s ]
+
+[ 2018-01-26T23:35:08+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000476s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015157s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.017898s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000756s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000410s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001189s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000373s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.029948s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004802s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000299s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.061181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024722s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.029240s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028679s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.033217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012734s ]
+
+[ 2018-01-26T23:35:39+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000207s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004517s ]
+
+[ 2018-01-26T23:40:57+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000553s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005174s ]
+
+[ 2018-01-26T23:46:40+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004147s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020356s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '444' AND `pwd` = '888' LIMIT 1   [ RunTime:0.001537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005836s ]
+
+[ 2018-01-26T23:46:57+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003258s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020808s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '444' AND `pwd` = '888' LIMIT 1   [ RunTime:0.001796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003216s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004106s ]
+
+[ 2018-01-26T23:47:02+08:00 ] ::1 /5dangpai.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000208s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006387s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-01-26T23:47:04+08:00 ] ::1 /5dangpai.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003667s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-01-26T23:47:08+08:00 ] ::1 /5dangpai.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003545s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-01-26T23:47:20+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.012545s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000575s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000347s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000362s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.018775s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002098s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000348s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.035512s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011815s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.014195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013321s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.015871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003449s ]
+
+[ 2018-01-26T23:47:48+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000202s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003328s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020222s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003829s ]
+
+[ 2018-01-26T23:48:21+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000212s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003698s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020577s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004284s ]
+
+[ 2018-01-26T23:49:23+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000189s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003898s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.019731s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004262s ]
+
+[ 2018-01-26T23:49:31+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000199s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003654s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.019467s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123457' LIMIT 1   [ RunTime:0.001371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004411s ]
+
+[ 2018-01-26T23:49:54+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004762s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.019494s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123457' LIMIT 1   [ RunTime:0.001916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004307s ]
+
+[ 2018-01-26T23:50:13+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004699s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020347s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123457' LIMIT 1   [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003569s ]
+
+[ 2018-01-26T23:52:34+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000638s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004217s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.019632s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123457' LIMIT 1   [ RunTime:0.001309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003483s ]
+
+[ 2018-01-26T23:52:42+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000181s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004962s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.018987s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123457' LIMIT 1   [ RunTime:0.001788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004550s ]
+
+[ 2018-01-26T23:52:49+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000277s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004255s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.018977s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003158s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004024s ]
+
+[ 2018-01-26T23:53:55+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009666s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003695s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020348s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004040s ]
+
+[ 2018-01-26T23:56:54+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004178s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.021883s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001529s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000398s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043106s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004749s ]
+
+[ 2018-01-26T23:56:56+08:00 ] ::1 /5dangpai.com/index.php/home/text/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000209s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002739s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003830s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_post` [ RunTime:0.034437s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `dang_post` LIMIT 1   [ RunTime:0.000881s ]
+SQL: SELECT * FROM `dang_post` LIMIT 5   [ RunTime:0.001801s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000474s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001352s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000582s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.029571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000355s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.058014s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016958s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.009993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.024263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019642s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.009993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.027109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009744s ]
+
+[ 2018-01-26T23:57:12+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003930s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.018929s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '1234546' LIMIT 1   [ RunTime:0.001785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004359s ]
+
+[ 2018-01-26T23:57:24+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004199s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.019196s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001729s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 21 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003938s ]
+
+[ 2018-01-26T23:58:37+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004115s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020917s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001528s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined index: username D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002930s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003741s ]
+
+[ 2018-01-26T23:58:47+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000166s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003344s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.020236s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001819s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined index: username D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003998s ]
+
+[ 2018-01-26T23:59:16+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000168s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005557s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.021632s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001508s ]
+NOTIC: [8] Array to string conversion D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 17 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined index: username D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006245s ]
+
+[ 2018-01-26T23:59:52+08:00 ] ::1 /5dangpai.com/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000225s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003461s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `dang_user` [ RunTime:0.016076s ]
+SQL: SELECT * FROM `dang_user` WHERE `phone` = '17663081703' AND `pwd` = '123456' LIMIT 1   [ RunTime:0.001452s ]
+NOTIC: [8] Array to string conversion D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 17 行.
+NOTIC: [8] A session had already been started - ignoring session_start() D:\sougou\wamp\www\5dangpai.com\ThinkPHP\Common\functions.php 第 1190 行.
+NOTIC: [8] Undefined index: username D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 22 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 23 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 26 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 27 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 28 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 29 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 30 行.
+NOTIC: [8] Undefined offset: 0 D:\sougou\wamp\www\5dangpai.com\Application\Home\Controller\LoginController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003094s ]
+
