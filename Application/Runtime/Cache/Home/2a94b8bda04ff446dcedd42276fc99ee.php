@@ -94,7 +94,7 @@
 								
 								
 								
-								<br>
+								
 								<?php echo ($page); ?>
 								
 								
@@ -104,23 +104,7 @@
 				</div>
 				
 				
-			
-				<div class="col-md-4">
-					<table class="table table-striped">
-						<tr><td>今日热帖</td></tr>
-						<tr><td>姓名</td></tr>
-						<tr><td>姓名</td></tr>
-						<tr><td>姓名</td></tr>
-					</table>
-					<!--
-					<div>小黑屋</div>
-					
-					
-					<img src="./img/guanggao.png" class="img-responsive">
-					-->
-				</div>
-			
-			
+
 			
 			
 			</div>
