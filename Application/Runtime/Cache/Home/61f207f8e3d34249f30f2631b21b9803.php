@@ -9,9 +9,9 @@
 						<span class="icon-bar"></span>
 	</button>
 					 
-					  <a class="navbar-brand" style="margin-top:1px;" href="/5dangpai.com/index.php/Home/Text/index">
+					  <a class="navbar-brand" style="margin-top:1px;" href="/index.php/Home/Text/index">
 						<!--
-						<img src="/5dangpai.com/Public/reception/img/logo.png" height="35">
+						<img src="/Public/reception/img/logo.png" height="35">
 						-->
 						捂挡派
 					  </a>
@@ -23,9 +23,9 @@
 					
 					  <ul class="nav navbar-nav navbar-left ">
 					
-						<li ><a href="/5dangpai.com/index.php/Home/index/index" ><span class="glyphicon glyphicon-home">精选</span></a></li>
-						<li ><a href="/5dangpai.com/index.php/Home/Text/index" ><span class="glyphicon glyphicon-pencil">文字</span></a></li>
-						<li><a href="/5dangpai.com/index.php/Home/Img/index" ><span class="glyphicon glyphicon-picture">图片</span></a></li>
+						<li ><a href="/index.php/Home/index/index" ><span class="glyphicon glyphicon-home">精选</span></a></li>
+						<li ><a href="/index.php/Home/Text/index" ><span class="glyphicon glyphicon-pencil">文字</span></a></li>
+						<li><a href="/index.php/Home/Img/index" ><span class="glyphicon glyphicon-picture">图片</span></a></li>
 						<li><a href="/happy/index.php/Home/Index/Video" ><span class="glyphicon glyphicon-film">视频</span></a></li>
 							<li><a href="/Video/index" ><span class="glyphicon glyphicon-film">最新</span></a></li>
 							
@@ -38,7 +38,7 @@
 						
 						<?php if(empty($_SESSION['uid'])): ?><button class="btn btn-default" style="height:50px; font-size:20px;" data-toggle="modal" data-target="#myModal">登录</button>
 						<?php else: ?>
-							<a style="display:inline" href="/5dangpai.com/index.php/Usercenter/Center/post/uid/<?php echo (session('uid')); ?>"><img src="/5dangpai.com/Public/user/head/user.jpg" height="50" width="50" class="img-circle"></a><?php endif; ?>
+							<a style="display:inline" href="/index.php/Usercenter/Center/post/uid/<?php echo (session('uid')); ?>"><img src="/Public/user/head/user.jpg" height="50" width="50" class="img-circle"></a><?php endif; ?>
 						
 					
 					
@@ -47,7 +47,7 @@
 						
 						
 						<?php if(empty($_SESSION['uid'])): else: ?>
-							<a style="display:inline" href="/5dangpai.com/index.php/Home/Login/over">
+							<a style="display:inline" href="/index.php/Home/Login/over">
 							<button class="btn btn-default" style="height:50px; font-size:20px;">退出</button></a><?php endif; ?>
 						
 						
@@ -78,7 +78,7 @@
 						 <div class="row">
 								<div class="col-md-3"></div>
 								<div class="col-md-6">
-									<form action="/5dangpai.com/index.php/Home/Login/login" method="post">
+									<form action="/index.php/Home/Login/login" method="post">
 									<div class="form-group has-success has-feedback">
 									  <label class="control-label" for="inputGroupSuccess1"></label>
 									  <div class="input-group">
@@ -114,7 +114,7 @@
 				
 						<hr>
 						<div style="text-align:center;">
-							<img src="/5dangpai.com/Public/reception/img/sanfang.png">
+							<img src="/Public/reception/img/sanfang.png">
 					    </div>
 						
 			

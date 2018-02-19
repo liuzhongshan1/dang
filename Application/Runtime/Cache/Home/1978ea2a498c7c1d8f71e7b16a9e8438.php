@@ -8,7 +8,7 @@
     <title>捂挡派</title>
 
     
-    <link href="/5dangpai.com/Public/reception/css/bootstrap.min.css"  rel="stylesheet">
+    <link href="/Public/reception/css/bootstrap.min.css"  rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,14 +36,14 @@
 								<div class="panel panel-default" style="margin-top:15px;-moz-box-shadow:2px 2px 0px #333333; -webkit-box-shadow:2px 2px 0px #333333; box-shadow:2px 2px 0px #333333;">
 										<div class="panel-heading" style="background:white;">
 											
-												<img src="/5dangpai.com/Public/user/head/<?php echo ($list["0"]["headShow"]); ?>"  class="img-circle" height="30">
+												<img src="/Public/user/head/<?php echo ($list["0"]["headShow"]); ?>"  class="img-circle" height="30">
 											
 										</div>
 									<div class="panel-body" style="text-indent:2em;">
 										<?php echo ($list["0"]["text"]); ?>
 										
 										
-										<img src="/5dangpai.com/Public/postImg/<?php echo ($list["0"]["img"]); ?>" style="margin: 0 auto;class="img-responsive img-thumbnail">
+										<img src="/Public/postImg/<?php echo ($list["0"]["img"]); ?>" style="margin: 0 auto;class="img-responsive img-thumbnail">
 										
 													
 									</div>
@@ -108,7 +108,7 @@
 								<table class="table">
 								
 									<?php if(is_array($data)): $i = 0; $__LIST__ = $data;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$data): $mod = ($i % 2 );++$i;?><tr>
-											<td style="width:10%;"><img src="/5dangpai.com/Public/user/head/<?php echo ($data["headShow"]); ?>" class="img-circle" width="30"></td>
+											<td style="width:10%;"><img src="/Public/user/head/<?php echo ($data["headShow"]); ?>" class="img-circle" width="30"></td>
 											<td style="width:80%"><?php echo ($data["content"]); ?></td>
 											<td style="width:10%">
 												<div style="font-size:12px;">
@@ -128,7 +128,7 @@
 							
 							<div class="row">	
 								
-											<form action="/5dangpai.com/index.php/Home/Replay/content" method="post">
+											<form action="/index.php/Home/Replay/content" method="post">
 												<div class="col-md-10">
 													<textarea class="form-control " rows="1" style=" border:3px solid red;" placeholder="非本派弟子"  name="content"></textarea>
 												</div>
@@ -204,6 +204,6 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/5dangpai.com/Public/reception/js/bootstrap.min.js"></script>
+    <script src="/Public/reception/js/bootstrap.min.js"></script>
   </body>
 </html>
