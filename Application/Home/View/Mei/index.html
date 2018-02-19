@@ -10,7 +10,7 @@
     
     <link href="__PUBLIC__/reception/css/bootstrap.min.css"  rel="stylesheet">
 
-   
+    
   </head>
   <body>
   
@@ -36,49 +36,21 @@
 					<volist name="list" id="vo">
 							<div class="panel panel-default" style="margin-top:15px;-moz-box-shadow:5px 5px 8px #333333; -webkit-box-shadow:5px 5px 8px #333333; box-shadow:5px 5px 8px #333333;">
 												<div class="panel-heading" style="background:white;">
-													<a href="__MODULE__/Discuz/index/uid/{$vo.uid}">
+													<a >
 														<img src="__PUBLIC__/user/head/{$vo.headShow}"  class="img-circle" height="30">
 													</a>
 												</div>
 											
 												<div class="panel-body" style="text-indent:2em;">
 																								
-													<a href="__MODULE__/Discuz/index/id/{$vo.pid}" style="font-size: 16px;line-height: 1.8;word-wrap: break-word;color: #333;margin-bottom: 10px;text-decoration: none;">
+													<a href="" style="font-size: 16px;line-height: 1.8;word-wrap: break-word;color: #333;margin-bottom: 10px;text-decoration: none;">
 														<p>{$vo.text}
 														</p>
-													</a>										</div>
-											
-											<div class="panel-heading" style="height:50px;">
-												<div class="user-footer" width="100%">
-													<div class="user-footer-left" style="width:50%;float:left">
-														<div class="col-md-3 col-sm-3 col-xs-3 text-center" style="font-size:12px;">
-															<span class="glyphicon glyphicon-thumbs-up"></span>
-															
-															{$vo.like}
-															
-														</div>
-														<div class="col-md-3 col-sm-3 col-xs-3 text-center" style="font-size:12px;">
-															<span class="glyphicon glyphicon-thumbs-down"></span>
-															{$vo.dislike}											</div>
-														<div class="col-md-3 col-sm-3 col-xs-3 text-center" style="font-size:12px;">
-															<span class="glyphicon glyphicon-comment"></span>
-															{$vo.discussNum}
-														</div>
-														
-													</div>
-													<div class="user-footer-right" style="width:50%;float:right;">
-														
-													
-													</div>
-													
-													
+													</a>
+													<a >
+														<img src="__PUBLIC__/postImg/{$vo.img}" class="img-responsive img-thumbnail" style="margin: 0 auto;" >
+													</a>
 												</div>
-												
-												
-											</div>
-												
-														
-											
 											
 										</div>
 									
@@ -89,13 +61,7 @@
 								
 								
 								
-								<br>
-								<br>
-								<br>
-								<br>
-								<br>
-								<br>
-								<br>
+								
 								{$page}
 								
 								
@@ -107,7 +73,19 @@
 				
 			
 				<div class="col-md-4">
+					<!--
+					<table class="table table-striped">
+						<tr><td>今日热帖</td></tr>
+						<tr><td>姓名</td></tr>
+						<tr><td>姓名</td></tr>
+						<tr><td>姓名</td></tr>
+					</table>
 					
+					<div>小黑屋</div>
+					
+					
+					<img src="./img/guanggao.png" class="img-responsive">
+					-->
 				</div>
 			
 			
